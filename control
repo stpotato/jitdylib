@@ -1,0 +1,9 @@
+Package: com.stpotato.jitdylib
+Name: jitweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: jit enabler in a tweak
+Maintainer: stpotato
+Author: stpotato
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
